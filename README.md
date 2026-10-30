@@ -1,6 +1,6 @@
 <div align="center">
 
-# e-inicio · Colorado RP
+# e-inicio · Colorado Roleplay
 
 ### Una experiencia de bienvenida completa para servidores FiveM
 
@@ -9,7 +9,7 @@
 [![Showcase](https://img.shields.io/badge/Repositorio-Showcase-ff9800?style=for-the-badge)](#)
 [![Estado](https://img.shields.io/badge/Estado-En%20desarrollo-17141f?style=for-the-badge)](#)
 
-Este repositorio presenta visualmente **e-inicio**, un sistema de onboarding, recompensas y administración creado para Colorado RP.
+Este repositorio presenta visualmente **e-inicio**, un sistema de onboarding, recompensas y administración creado para Colorado Roleplay.
 
 > **Showcase público:** el código fuente no está incluido ni se distribuye desde este repositorio.
 
